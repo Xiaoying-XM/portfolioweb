@@ -7,4 +7,18 @@ h5{
 }
 .thumbnail {
     border-radius: 50%;
+    width: 200px
+}
+html {
+    box-sizing: border-box;
+}
+*,*:before, *:after {
+    box-sizing:inherit;
+}
+.column {
+   width: 400px;
+   display: inline;
+}
+.portfolio {
+    margin: 10%
 }
