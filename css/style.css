@@ -27,17 +27,27 @@ h4{
     display:inline-block;
     padding-left:100px;
 }
-body{
-    text-align: center;
-}
+
 .titles{
     margin-top:50px;
 }
-body{
+.border{
     border-style: solid;
     border-color: #e8b2b1 #1c3b57 #94c9c4;
     border-width:1.5em;
+    text-align: center;  
+    
+    
 }
 #icon {
     max-height: 30px;
+}
+.cover{
+    display:inline-block;
+    float:left;
+    margin:20px;
+}
+.right{
+    display: inline-block;
+    float: right;
 }
