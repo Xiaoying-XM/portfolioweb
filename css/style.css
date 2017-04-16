@@ -44,10 +44,52 @@ h4{
 }
 .cover{
     display:inline-block;
-    float:left;
+    
     margin:20px;
 }
 .right{
     display: inline-block;
-    float: right;
+    
+}
+.text{
+    word-wrap: break-word;
+    width: 400px;
+    text-align: center;
+    margin:auto; 
+    padding-top:40px;
+    padding-bottom:40px; 
+    display: inline-block;
+}
+.architecture{
+    width:30px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.design{
+    width:20px;
+    padding-left:5px;
+    display: inline-block;
+    vertical-align: middle
+}
+.art{
+    width:30px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.name{
+    width:30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+main{
+    margin:10%;
+    display: inline-block;
+   
+}
+.picture{
+    vertical-align: top;
+    height: 800px;
+    margin:0;
+    display: inline-block;
+    
 }
