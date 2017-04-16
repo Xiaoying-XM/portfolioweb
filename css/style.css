@@ -43,15 +43,6 @@ h4{
 #icon {
     max-height: 30px;
 }
-.cover{
-    display:inline-block;
-    
-    margin:20px;
-}
-.right{
-    display: inline-block;
-    
-}
 .text{
     word-wrap: break-word;
     width: 400px;
@@ -82,18 +73,6 @@ h4{
     display: inline-block;
     vertical-align: middle;
 }
-main{
-    margin:10%;
-    display: inline-block;
-   
-}
-.picture{
-    vertical-align: top;
-    height: 800px;
-    margin:0;
-    display: inline-block;
-    
-}
 .intro{
 margin: 10%;
     text-align: left;
@@ -105,4 +84,11 @@ margin: 10%;
 #self{
     max-height: 300px;
 }
-
+#cover{
+    vertical-align: middle;
+}
+#right{vertical-align: middle;}
+.main{
+    margin:0 auto;
+    
+}
