@@ -47,10 +47,11 @@ h4{
     word-wrap: break-word;
     width: 400px;
     text-align: center;
-    margin:auto; 
+    margin-top: 10%; 
     padding-top:40px;
     padding-bottom:40px; 
     display: inline-block;
+    
 }
 .architecture{
     width:30px;
@@ -72,6 +73,8 @@ h4{
     width:30px;
     display: inline-block;
     vertical-align: middle;
+    padding-left: 30%;
+    border-left-style: solid;
 }
 .intro{
 margin: 10%;
@@ -80,15 +83,15 @@ margin: 10%;
     display: inline-block;
     float:right;
     
+    
 }
 #self{
     max-height: 300px;
 }
 #cover{
     vertical-align: middle;
+    float:left;
 }
-#right{vertical-align: middle;}
-.main{
-    margin:0 auto;
-    
+#right{
+    vertical-align: middle;
 }
