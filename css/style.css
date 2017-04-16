@@ -38,3 +38,6 @@ body{
     border-color: #e8b2b1 #1c3b57 #94c9c4;
     border-width:1.5em;
 }
+#icon {
+    max-height: 30px;
+}
