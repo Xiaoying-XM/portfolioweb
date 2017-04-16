@@ -1,7 +1,4 @@
-.titles {
-    text-align: center
-}
-h5{
+h4{
     display: inline;
     margin: 10px;
 }
@@ -13,6 +10,23 @@ h5{
    width: 200px;
    float:left;
 }
+.group1 {
+    max-width:300px;
+    display:inline-block;
+    vertical-align: top;
+    width: 300px;    
+}
+.group2 {
+    max-width:300px;
+    display:inline-block;
+    vertical-align: top;
+    width: 300px;    
+}
 .portfolio{
     margin: 10%;
+    display:inline-block;
+    padding-left:100px;
+}
+body{
+    text-align: center;
 }
