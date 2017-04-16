@@ -36,7 +36,8 @@ h4{
     border-color: #e8b2b1 #1c3b57 #94c9c4;
     border-width:1.5em;
     text-align: center;  
-    
+    max-height: 1800px;
+    min-height: 800px;
     
 }
 #icon {
@@ -93,3 +94,15 @@ main{
     display: inline-block;
     
 }
+.intro{
+margin: 10%;
+    text-align: left;
+    max-width: 500px;
+    display: inline-block;
+    float:right;
+    
+}
+#self{
+    max-height: 300px;
+}
+
