@@ -36,7 +36,7 @@ h4{
     border-color: #e8b2b1 #1c3b57 #94c9c4;
     border-width:1.5em;
     text-align: center;  
-    max-height: 1500px;
+    max-height: 2500px;
     min-height: 900px;
     
 }
@@ -75,6 +75,7 @@ h4{
     vertical-align: middle;
     padding-left: 30%;
     border-left-style: solid;
+    float: right;
 }
 .intro{
 margin:10%;
@@ -91,9 +92,12 @@ margin:10%;
 #cover{
     vertical-align: middle;
     float:left;
+    padding-top:50px;
 }
 #right{
     vertical-align: middle;
+    float: right;
+    padding-top: 50px;
 }
 
 hr {
